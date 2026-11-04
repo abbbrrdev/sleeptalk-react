@@ -1,0 +1,5 @@
+{
+  "CFBundleDisplayName": "SleepTalk",
+  "NSMicrophoneUsageDescription": "SleepTalk escucha mientras duermes para captar si hablas, roncas o te ríes. Solo se guardan clips cortos, en tu iPhone.",
+  "NSSpeechRecognitionUsageDescription": "SleepTalk convierte en texto, en tu iPhone, los clips en los que hablas dormido cuando tocas «¿Qué dije?»."
+}

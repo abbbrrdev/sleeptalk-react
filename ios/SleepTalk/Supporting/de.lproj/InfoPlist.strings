@@ -1,0 +1,3 @@
+CFBundleDisplayName = "SleepTalk";
+NSMicrophoneUsageDescription = "SleepTalk hört zu, während du schläfst, um Sprechen, Schnarchen und Lachen festzuhalten. Nur kurze Clips bleiben auf deinem iPhone.";
+NSSpeechRecognitionUsageDescription = "SleepTalk wandelt deine Schlafgesprächs-Clips auf deinem iPhone in Text um, wenn du auf „Was habe ich gesagt?“ tippst.";

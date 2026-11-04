@@ -1,0 +1,3 @@
+CFBundleDisplayName = "SleepTalk";
+NSMicrophoneUsageDescription = "SleepTalkは寝ている間の寝言・いびき・笑い声を録るためにマイクを使います。短いクリップだけがiPhoneに保存されます。";
+NSSpeechRecognitionUsageDescription = "「なんて言った？」をタップすると、SleepTalkはiPhone上で寝言クリップを文字にします。";

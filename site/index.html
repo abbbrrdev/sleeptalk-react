@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>SleepTalk — what do you say when you're asleep?</title>
+  <meta name="description" content="SleepTalk listens all night and keeps only the moments that matter — sleep talking, snoring, laughing. Everything stays on your iPhone." />
+  <meta name="theme-color" content="#F3EEE4" />
+  <link rel="icon" type="image/png" href="/assets/favicon.png" />
+  <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Manrope:wght@500;600;700;800&family=Martian+Mono:wght@500;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/styles.css" />
+  <script src="/site.js" defer></script>
+  <meta property="og:title" content="SleepTalk — what do you say when you're asleep?" />
+  <meta property="og:description" content="A night report of your sleep talking, snoring and laughing. On your iPhone, no cloud." />
+  <meta property="og:image" content="/assets/og.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+</head>
+<body>
+  <header class="nav">
+    <div class="wrap">
+      <a class="logo" href="/" aria-label="SleepTalk"><svg viewBox="0 0 52 40" aria-hidden="true"><circle cx="18" cy="20" r="16" fill="#2F4FCE"/><circle cx="25" cy="14" r="13" fill="#F3EEE4"/><path d="M26 10 h20 a4 4 0 0 1 4 4 v10 a4 4 0 0 1 -4 4 h-10 l-6 6 v-6 h-4 a4 4 0 0 1 -4 -4 v-10 a4 4 0 0 1 4 -4 z" fill="#FF4F9A"/><path d="M34 15 h6 l-6 7 h6" stroke="#1B1A1F" stroke-width="2.2" fill="none" stroke-linejoin="round" stroke-linecap="round"/></svg>sleeptalk</a>
+      <nav class="nav-links">
+        <a href="#how" data-i18n="nav.how">How it works</a>
+        <a href="#catches" data-i18n="nav.catches">What it catches</a>
+        <a href="#pricing" data-i18n="nav.pricing">Pricing</a>
+        <a href="#faq" data-i18n="nav.faq">FAQ</a>
+      </nav>
+      <div class="nav-right">
+        <div class="lang" role="group" aria-label="Language">
+          <button data-lang="en" aria-pressed="true">EN</button>
+          <button data-lang="ru" aria-pressed="false">RU</button>
+        </div>
+        <a class="btn small" href="#get" data-store data-i18n="nav.get">Get the app</a>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero dots">
+      <svg class="moon" viewBox="0 0 460 460" aria-hidden="true"><circle cx="230" cy="230" r="190" fill="#2F4FCE"/><circle cx="300" cy="180" r="170" fill="#F3EEE4"/><circle cx="240" cy="238" r="190" fill="none" stroke="#FF4F9A" stroke-width="4"/></svg>
+      <div class="wrap">
+        <div>
+          <span class="label" data-i18n="hero.issue">Issue #1 · tonight</span>
+          <h1 class="riso" data-i18n="hero.title">What do you say when you're asleep?</h1>
+          <p class="lead" data-i18n="hero.lead">Put your phone by the bed. SleepTalk listens all night and keeps only the moments that matter — talking, snoring, laughing. In the morning: your night, printed like a zine.</p>
+          <div class="cta-row" id="get">
+            <a class="store" href="#" data-store>
+              <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M16.37 12.64c-.02-2.3 1.88-3.4 1.96-3.46-1.07-1.56-2.73-1.77-3.32-1.8-1.41-.14-2.76.83-3.47.83-.72 0-1.82-.81-3-.79-1.54.02-2.96.9-3.76 2.28-1.6 2.78-.41 6.9 1.15 9.16.76 1.1 1.67 2.34 2.86 2.3 1.15-.05 1.58-.74 2.97-.74 1.38 0 1.77.74 2.98.72 1.23-.02 2.01-1.12 2.76-2.23.87-1.28 1.23-2.52 1.25-2.58-.03-.01-2.4-.92-2.42-3.66zM14.1 5.9c.63-.77 1.06-1.83.94-2.9-.91.04-2.02.61-2.67 1.37-.58.67-1.1 1.76-.96 2.8 1.02.08 2.05-.52 2.69-1.27z"/></svg>
+              <span><small data-i18n="store.small">Coming soon on the</small><b>App Store</b></span>
+            </a>
+            <span class="soon" data-i18n="store.soon">iPhone · 11 languages · no account</span>
+          </div>
+        </div>
+        <div class="report reveal" aria-hidden="true">
+          <div class="row"><span class="label" data-i18n="rep.issue">Issue #12 · Sat 4 Oct</span><span class="label">23:41 → 07:02</span></div>
+          <h3 data-i18n="rep.title">Night report</h3>
+          <div class="stats">
+            <div class="stat p dots-pink"><b>3</b><span data-i18n="rep.said">Things you said</span></div>
+            <div class="stat b dots-pink"><b>42</b><span data-i18n="rep.snore">Snore score</span></div>
+            <div class="stat y dots-pink"><b>1</b><span data-i18n="rep.laugh">Laughs</span></div>
+          </div>
+          <div class="quote dots-pink"><span data-i18n="rep.quote">No, the penguins are mine.</span><small>— 03:14</small></div>
+          <div class="strip"><i class="" style="height:14%"></i><i class="" style="height:18%"></i><i class="t" style="height:70%"></i><i class="" style="height:12%"></i><i class="" style="height:15%"></i><i class="" style="height:10%"></i><i class="" style="height:22%"></i><i class="" style="height:16%"></i><i class="s" style="height:48%"></i><i class="s" style="height:56%"></i><i class="s" style="height:52%"></i><i class="s" style="height:60%"></i><i class="l" style="height:80%"></i><i class="" style="height:14%"></i><i class="" style="height:18%"></i><i class="" style="height:12%"></i><i class="t" style="height:90%"></i><i class="" style="height:15%"></i><i class="" style="height:11%"></i><i class="c" style="height:64%"></i><i class="" style="height:20%"></i><i class="s" style="height:44%"></i><i class="s" style="height:50%"></i><i class="" style="height:14%"></i><i class="" style="height:10%"></i><i class="" style="height:17%"></i><i class="t" style="height:75%"></i><i class="" style="height:13%"></i><i class="" style="height:19%"></i><i class="" style="height:12%"></i><i class="" style="height:9%"></i></div>
+        </div>
+      </div>
+    </section>
+
+    <div class="ticker" aria-hidden="true"><div class="track" data-ticker></div></div>
+
+    <section id="how">
+      <div class="wrap">
+        <div class="head reveal">
+          <div class="label" data-i18n="how.label">How it works</div>
+          <h2 class="riso" data-i18n="how.title">Tap. Sleep.<br />Read all about it.</h2>
+        </div>
+        <div class="steps reveal">
+          <div class="step dots"><div class="n" style="background:var(--blue);color:var(--sheet)">1</div><h3 data-i18n="how1.t">Phone on the nightstand</h3><p data-i18n="how1.p">Tap “Start night”, plug in the charger, put it face down within a metre of your pillow.</p></div>
+          <div class="step dots"><div class="n" style="background:var(--pink)">2</div><h3 data-i18n="how2.t">Silence is thrown away</h3><p data-i18n="how2.p">SleepTalk learns how quiet your room is and keeps only what stands out. You get clips, not eight hours of tape.</p></div>
+          <div class="step dots"><div class="n" style="background:var(--yellow)">3</div><h3 data-i18n="how3.t">Morning: your night report</h3><p data-i18n="how3.p">Every clip on a timeline, sorted by an on-device sound classifier into talking, snoring, laughing and coughing.</p></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="catches" style="padding-top:20px">
+      <div class="wrap">
+        <div class="head reveal">
+          <div class="label" data-i18n="ct.label">What it catches</div>
+          <h2 class="riso" data-i18n="ct.title">Four kinds of<br />night noise.</h2>
+        </div>
+        <div class="kinds reveal">
+          <div class="kind talk"><span class="tag cough" data-i18n="ct.talk.tag">talk</span><div><h3 data-i18n="ct.talk.t">Sleep talk</h3><p data-i18n="ct.talk.p">Mumbles, full sentences, the occasional argument with nobody.</p></div></div>
+          <div class="kind snore"><span class="tag laugh" data-i18n="ct.snore.tag">snore</span><div><h3 data-i18n="ct.snore.t">Snoring</h3><p data-i18n="ct.snore.p">How long and how loud — a snore score you can track week by week.</p></div></div>
+          <div class="kind laugh"><span class="tag talk" data-i18n="ct.laugh.tag">laugh</span><div><h3 data-i18n="ct.laugh.t">Laughing</h3><p data-i18n="ct.laugh.p">Whatever the dream was, it was funny.</p></div></div>
+          <div class="kind cough"><span class="tag snore" data-i18n="ct.cough.tag">cough</span><div><h3 data-i18n="ct.cough.t">Coughing</h3><p data-i18n="ct.cough.p">Coughs, sneezes and throat-clearing at 4 AM.</p></div></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="night">
+      <div class="wrap split">
+        <div class="reveal">
+          <div class="label" data-i18n="wd.label">Pro · What did I say?</div>
+          <h2 class="riso" style="margin-top:14px" data-i18n="wd.title">Mumbling,<br />turned into text.</h2>
+          <p class="lead" style="margin-top:18px" data-i18n="wd.lead">Tap a talk clip and Apple's speech recognition writes down what you said — right on your iPhone. Then share it, before you forget you said it.</p>
+        </div>
+        <div class="reveal"><div class="bubble"><span data-i18n="wd.quote">Five more minutes, I'm the captain.</span><small>— 04:52 · <span data-i18n="wd.tag">sleep talk</span></small></div></div>
+      </div>
+    </section>
+
+    <section style="padding-top:90px">
+      <div class="wrap">
+        <div class="head reveal">
+          <div class="label" data-i18n="pv.label">Privacy</div>
+          <h2 class="riso" data-i18n="pv.title">Your night never<br />leaves the phone.</h2>
+        </div>
+        <div class="points reveal">
+          <div class="point"><h3 data-i18n="p1.t">No cloud</h3><p data-i18n="p1.p">No account, no servers. Clips are stored on your iPhone and nowhere else.</p></div>
+          <div class="point"><h3 data-i18n="p2.t">The full tape is deleted</h3><p data-i18n="p2.p">The overnight recording exists only until the clips are cut, then it's gone.</p></div>
+          <div class="point"><h3 data-i18n="p3.t">Classified on device</h3><p data-i18n="p3.p">Apple's built-in sound classifier sorts the clips offline. No audio is uploaded to sort it.</p></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="pricing" style="padding-top:20px">
+      <div class="wrap">
+        <div class="head reveal">
+          <div class="label" data-i18n="pr.label">Pricing</div>
+          <h2 class="riso" data-i18n="pr.title">Free every night.</h2>
+        </div>
+        <div class="reveal">
+          <table class="fees">
+            <thead><tr><th data-i18n="pr.item">Feature</th><th class="c" data-i18n="pr.free">Free</th><th class="c">Pro</th></tr></thead>
+            <tbody>
+              <tr><td data-i18n="pr.1">Record every night, night report &amp; timeline</td><td class="c yes">✓</td><td class="c yes">✓</td></tr>
+              <tr><td data-i18n="pr.2">Clips you can play each night</td><td class="c">3</td><td class="c yes">∞</td></tr>
+              <tr><td data-i18n="pr.3">Share cards &amp; audio</td><td class="c yes">✓</td><td class="c yes">✓</td></tr>
+              <tr><td data-i18n="pr.4">“What did I say?” — sleep talk to text</td><td class="c no">—</td><td class="c yes">✓</td></tr>
+              <tr><td data-i18n="pr.5">Snore score trends, full archive, clips kept forever</td><td class="c no">—</td><td class="c yes">✓</td></tr>
+            </tbody>
+          </table>
+          <div class="plans">
+            <div class="plan"><span class="badge" data-i18n="pr.best">3 DAYS FREE · −89%</span><div class="label" data-i18n="pr.yearly">Yearly</div><div class="price">$39.99<small data-i18n="pr.yr">/yr</small></div><p data-i18n="pr.yearly.p">≈ $0.77 a week. Cancel anytime.</p></div>
+            <div class="plan"><div class="label" data-i18n="pr.weekly">Weekly</div><div class="price">$6.99<small data-i18n="pr.wk">/wk</small></div><p data-i18n="pr.weekly.p">For one curious week.</p></div>
+          </div>
+          <p class="fine" data-i18n="pr.fine">Prices in USD; your App Store shows local prices. Subscriptions renew automatically unless cancelled at least 24 hours before the end of the period.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="faq" style="padding-top:20px">
+      <div class="wrap">
+        <div class="head reveal">
+          <div class="label" data-i18n="faq.label">Questions</div>
+          <h2 class="riso" data-i18n="faq.title">Before lights out.</h2>
+        </div>
+        <div class="faq reveal">
+          <details><summary data-i18n="q1">Will it drain my battery?</summary><p data-i18n="a1">Recording all night uses about as much as playing music quietly. Plug in the charger — SleepTalk reminds you.</p></details>
+          <details><summary data-i18n="q2">Does it record my partner?</summary><p data-i18n="a2">It hears everything in the room, so yes, their sounds can end up in your clips. Tell them before you start, and only share clips with their OK.</p></details>
+          <details><summary data-i18n="q3">How much storage does it use?</summary><p data-i18n="a3">Only the clips are kept — usually 1–5 MB a night. The full recording is deleted after the night is processed.</p></details>
+          <details><summary data-i18n="q4">Can it tell me if I have sleep apnea?</summary><p data-i18n="a4">No. SleepTalk is for curiosity, not diagnosis. Loud snoring with pauses or gasping can be a sign of sleep apnea — that's a question for a doctor.</p></details>
+          <details><summary data-i18n="q5">Android?</summary><p data-i18n="a5">Not yet. iPhone first.</p></details>
+          <details><summary data-i18n="q6">How do I cancel?</summary><p data-i18n="a6">Settings → your name → Subscriptions → SleepTalk. Cancel at least 24 hours before renewal and you won't be charged. Deleting the app doesn't cancel it.</p></details>
+        </div>
+      </div>
+    </section>
+
+    <section class="final dots">
+      <div class="wrap">
+        <h2 class="riso" data-i18n="final.title">Find out tonight.</h2>
+        <div class="cta-row" style="margin-top:32px"><a class="btn pink" href="#" data-store data-i18n="final.cta">Get SleepTalk for iPhone</a></div>
+        <p class="fine" data-i18n="final.fine">Free every night. No account.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="wrap">
+      <span>© <span data-year></span> SleepTalk</span>
+      <nav>
+        <a href="/privacy" data-i18n="ft.privacy">Privacy Policy</a>
+        <a href="/terms" data-i18n="ft.terms">Terms of Use</a>
+        <a href="#" data-contact data-i18n="ft.contact">Contact</a>
+      </nav>
+    </div>
+  </footer>
+</body>
+</html>

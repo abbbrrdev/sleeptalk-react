@@ -1,0 +1,179 @@
+{"_e":"root:init","_t":1790839384307,"format":"v0-jsonl","version":"57.0.27"}
+{"_e":"devserver:start","_t":1790839384317,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../src/app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1790839384499,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1790839384578,"plugins":[]}
+{"_e":"metro:instantiate","_t":1790839384796,"atlas":false,"workers":6,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1790840120581,"id":"1","platform":"ios","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1790840120581,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1790840120584,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1790840120684,"id":"1","progress":0.14428219457965266,"total":258,"current":98}
+{"_e":"metro:bundling:progress","_t":1790840120784,"id":"1","progress":0.3505323932281145,"total":554,"current":328}
+{"_e":"metro:bundling:progress","_t":1790840120884,"id":"1","progress":0.5177566243250835,"total":895,"current":644}
+{"_e":"metro:bundling:progress","_t":1790840120984,"id":"1","progress":0.8423719271908425,"total":1022,"current":938}
+{"_e":"metro:bundling:progress","_t":1790840121084,"id":"1","progress":0.9983367986245886,"total":1202,"current":1201}
+{"_e":"metro:bundling:progress","_t":1790840121186,"id":"1","progress":0.9983367986245886,"total":1210,"current":1202}
+{"_e":"metro:bundling:progress","_t":1790840121237,"id":"1","progress":0.9983367986245886,"total":1210,"current":1203}
+{"_e":"metro:bundling:progress","_t":1790840121337,"id":"1","progress":0.9983367986245886,"total":1339,"current":1242}
+{"_e":"metro:bundling:progress","_t":1790840121438,"id":"1","progress":0.9983367986245886,"total":1525,"current":1334}
+{"_e":"metro:bundling:progress","_t":1790840121538,"id":"1","progress":0.9983367986245886,"total":1619,"current":1541}
+{"_e":"metro:bundling:progress","_t":1790840121638,"id":"1","progress":0.9983367986245886,"total":1779,"current":1713}
+{"_e":"metro:bundling:progress","_t":1790840121743,"id":"1","progress":0.9983367986245886,"total":1831,"current":1810}
+{"_e":"metro:bundling:progress","_t":1790840121838,"id":"1","progress":0.9983367986245886,"total":1860,"current":1839}
+{"_e":"metro:bundling:progress","_t":1790840121938,"id":"1","progress":0.9983367986245886,"total":1881,"current":1872}
+{"_e":"metro:bundling:done","_t":1790840122034,"id":"1","total":1881,"ms":1453.244416}
+{"_e":"metro:bundling:started","_t":1790840178861,"id":"d","platform":"ios","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1790840178861,"id":"d","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1790840178907,"id":"d","total":1,"ms":46.137875}
+{"_e":"metro:bundling:started","_t":1790840185958,"id":"f","platform":"ios","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1790840185958,"id":"f","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1790840186008,"id":"f","total":1,"ms":49.867834}
+{"_e":"metro:bundling:started","_t":1790840280499,"id":"i","platform":"ios","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1790840280499,"id":"i","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1790840280535,"id":"i","total":1,"ms":35.794083}
+{"_e":"root:init","_t":1790840688070,"format":"v0-jsonl","version":"57.0.27"}
+{"_e":"devserver:start","_t":1790840688085,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../src/app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1790840688299,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1790840688408,"plugins":[]}
+{"_e":"metro:instantiate","_t":1790840688673,"atlas":false,"workers":6,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1790840706653,"id":"1","platform":"ios","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1790840706654,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1790840706658,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1790840706757,"id":"1","progress":0.17136709348822454,"total":401,"current":166}
+{"_e":"metro:bundling:progress","_t":1790840706857,"id":"1","progress":0.40335699694382077,"total":866,"current":550}
+{"_e":"metro:bundling:progress","_t":1790840706960,"id":"1","progress":0.6778062631964266,"total":1228,"current":1011}
+{"_e":"metro:bundling:progress","_t":1790840707060,"id":"1","progress":0.8484556155151286,"total":1648,"current":1518}
+{"_e":"metro:bundling:done","_t":1790840707185,"id":"1","total":1648,"ms":531.919709}
+{"_e":"metro:bundling:started","_t":1790840763006,"id":"d","platform":"ios","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1790840763006,"id":"d","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1790840763065,"id":"d","total":1,"ms":58.501958}
+{"_e":"metro:server_log","_t":1790840771781,"level":"info","data":["Launching DevTools..."]}
+{"_e":"metro:bundling:started","_t":1790840773451,"id":"f","platform":"ios","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"root:init","_t":1790953214559,"format":"v0-jsonl","version":"57.0.27"}
+{"_e":"devserver:start","_t":1790953214575,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../src/app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1790953214789,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1790953214882,"plugins":[]}
+{"_e":"metro:instantiate","_t":1790953215103,"atlas":false,"workers":6,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1790953225874,"id":"1","platform":"ios","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1790953225875,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1790953225883,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1790953225983,"id":"1","progress":0.19299007651441746,"total":346,"current":152}
+{"_e":"metro:bundling:progress","_t":1790953226087,"id":"1","progress":0.3126542352707796,"total":710,"current":397}
+{"_e":"metro:bundling:progress","_t":1790953226186,"id":"1","progress":0.4846101713840843,"total":803,"current":559}
+{"_e":"metro:bundling:progress","_t":1790953226286,"id":"1","progress":0.5227659950928049,"total":899,"current":650}
+{"_e":"metro:bundling:progress","_t":1790953226386,"id":"1","progress":0.6149267636250711,"total":973,"current":763}
+{"_e":"metro:bundling:progress","_t":1790953226486,"id":"1","progress":0.8225266930553414,"total":1053,"current":955}
+{"_e":"metro:bundling:progress","_t":1790953226592,"id":"1","progress":0.8225266930553414,"total":1240,"current":1087}
+{"_e":"metro:bundling:progress","_t":1790953226691,"id":"1","progress":0.863724934702395,"total":1345,"current":1250}
+{"_e":"metro:bundling:progress","_t":1790953226791,"id":"1","progress":0.9035737655207635,"total":1416,"current":1346}
+{"_e":"metro:bundling:progress","_t":1790953226891,"id":"1","progress":0.9035737655207635,"total":1579,"current":1484}
+{"_e":"metro:bundling:progress","_t":1790953226991,"id":"1","progress":0.9035737655207635,"total":1838,"current":1739}
+{"_e":"metro:bundling:progress","_t":1790953227091,"id":"1","progress":0.9233932611399024,"total":1971,"current":1894}
+{"_e":"metro:bundling:progress","_t":1790953227195,"id":"1","progress":0.984228931205029,"total":2021,"current":2005}
+{"_e":"metro:bundling:progress","_t":1790953227296,"id":"1","progress":0.984228931205029,"total":2074,"current":2029}
+{"_e":"metro:bundling:progress","_t":1790953227397,"id":"1","progress":0.984228931205029,"total":2100,"current":2056}
+{"_e":"metro:bundling:progress","_t":1790953227497,"id":"1","progress":0.9915234665304873,"total":2119,"current":2110}
+{"_e":"metro:bundling:done","_t":1790953227584,"id":"1","total":2119,"ms":1709.912458}
+{"_e":"metro:client_log","_t":1790953228503,"level":"debug","data":["[RevenueCat] ℹ️ Configuring SDK using RevenueCat's UserDefaults suite."]}
+{"_e":"metro:client_log","_t":1790953228630,"level":"debug","data":["[RevenueCat] 👤 Identifying App User ID"]}
+{"_e":"metro:client_log","_t":1790953228630,"level":"debug","data":["[RevenueCat] ℹ️ Debug logging enabled"]}
+{"_e":"metro:client_log","_t":1790953228630,"level":"debug","data":["[RevenueCat] ℹ️ SDK Version - 5.90.2"]}
+{"_e":"metro:client_log","_t":1790953228630,"level":"debug","data":["[RevenueCat] ℹ️ Bundle ID - abr.sleeptalk"]}
+{"_e":"metro:client_log","_t":1790953228630,"level":"debug","data":["[RevenueCat] ℹ️ System Version - Version 26.5 (Build 23F77)"]}
+{"_e":"metro:client_log","_t":1790953228630,"level":"debug","data":["[RevenueCat] ℹ️ Using a simulator. Ensure you have a StoreKit Config file set up before trying to fetch products or make purchases.\nSee https://errors.rev.cat/testing-in-simulator for more details."]}
+{"_e":"metro:client_log","_t":1790953228630,"level":"debug","data":["[RevenueCat] 👤 No initial App User ID"]}
+{"_e":"metro:client_log","_t":1790953228631,"level":"debug","data":["[RevenueCat] ℹ️ Purchases is configured with response verification disabled"]}
+{"_e":"metro:client_log","_t":1790953228631,"level":"debug","data":["[RevenueCat] ℹ️ Observing StoreKit.Transaction.updates"]}
+{"_e":"metro:client_log","_t":1790953228631,"level":"debug","data":["[RevenueCat] ℹ️ Purchases is configured with StoreKit version 2"]}
+{"_e":"metro:client_log","_t":1790953228631,"level":"debug","data":["[RevenueCat] ℹ️ Delegate set"]}
+{"_e":"metro:client_log","_t":1790953228631,"level":"debug","data":["[RevenueCat] ℹ️ Observing StoreKit.PurchaseIntent.intents"]}
+{"_e":"metro:client_log","_t":1790953228631,"level":"debug","data":["[RevenueCat] ℹ️ ProductEntitlementMapping cache is stale, updating from network."]}
+{"_e":"metro:client_log","_t":1790953228631,"level":"debug","data":["[RevenueCat] ℹ️ Offerings cache is stale, updating from network in foreground"]}
+{"_e":"metro:client_log","_t":1790953228631,"level":"debug","data":["[RevenueCat] ℹ️ GetProductEntitlementMappingOperation: Started"]}
+{"_e":"metro:client_log","_t":1790953228631,"level":"debug","data":["[RevenueCat] ℹ️ There are no requests currently running, starting request GET /v1/product_entitlement_mapping"]}
+{"_e":"metro:client_log","_t":1790953228631,"level":"debug","data":["[RevenueCat] ℹ️ GetRemoteConfigOperation: Started"]}
+{"_e":"metro:client_log","_t":1790953228631,"level":"debug","data":["[RevenueCat] ℹ️ There are no requests currently running, starting request POST /v1/config/app"]}
+{"_e":"metro:client_log","_t":1790953228631,"level":"debug","data":["[RevenueCat] ℹ️ API request started: GET '/v1/product_entitlement_mapping'"]}
+{"_e":"metro:client_log","_t":1790953228631,"level":"debug","data":["[RevenueCat] ℹ️ API request started: POST '/v1/config/app'"]}
+{"_e":"metro:client_log","_t":1790953228632,"level":"debug","data":["[RevenueCat] ℹ️ CustomerInfo cache is stale, updating from network in foreground."]}
+{"_e":"metro:client_log","_t":1790953228643,"level":"debug","data":["[RevenueCat] ℹ️ Network operation 'GetCustomerInfoOperation' found with the same cache key 'GetCustomerInfo…'. Skipping request."]}
+{"_e":"metro:client_log","_t":1790953229082,"level":"debug","data":["[RevenueCat] ℹ️ API request completed: POST '/v1/config/app' (200)"]}
+{"_e":"metro:client_log","_t":1790953229094,"level":"debug","data":["[RevenueCat] ℹ️ Received remote config with 6 active topics (checkpoint_rules, product_entitlement_mapping, sdk_settings, sources, ui_config, workflows) and 6 changed topics (checkpoint_rules, product_entitlement_mapping, sdk_settings, sources, ui_config, workflows)."]}
+{"_e":"metro:client_log","_t":1790953229105,"level":"debug","data":["[RevenueCat] ℹ️ Persisted remote config for domain 'app' with 6 active topics and 1 referenced blobs."]}
+{"_e":"metro:client_log","_t":1790953229105,"level":"debug","data":["[RevenueCat] ℹ️ GetRemoteConfigOperation: Finished"]}
+{"_e":"metro:client_log","_t":1790953229105,"level":"debug","data":["[RevenueCat] ℹ️ Serial request done: POST /v1/config/app, 0 requests left in the queue"]}
+{"_e":"metro:client_log","_t":1790953229185,"level":"debug","data":["[RevenueCat] ℹ️ API request completed: GET '/v1/product_entitlement_mapping' (200)"]}
+{"_e":"metro:client_log","_t":1790953229189,"level":"debug","data":["[RevenueCat] ℹ️ ProductEntitlementMapping cache updated from network."]}
+{"_e":"metro:client_log","_t":1790953229191,"level":"debug","data":["[RevenueCat] ℹ️ GetProductEntitlementMappingOperation: Finished"]}
+{"_e":"metro:client_log","_t":1790953229191,"level":"debug","data":["[RevenueCat] ℹ️ Serial request done: GET /v1/product_entitlement_mapping, 0 requests left in the queue"]}
+{"_e":"metro:client_log","_t":1790953229191,"level":"debug","data":["[RevenueCat] ℹ️ GetOfferingsOperation: Started"]}
+{"_e":"metro:client_log","_t":1790953229192,"level":"debug","data":["[RevenueCat] ℹ️ There are no requests currently running, starting request GET /v1/subscribers/$RCAnonymousID%3A2dfa3e5880ca453ebeeb584cb08ea042/offerings"]}
+{"_e":"metro:client_log","_t":1790953229192,"level":"debug","data":["[RevenueCat] ℹ️ API request started: GET '/v1/subscribers/$RCAnonymousID%3A2dfa3e5880ca453ebeeb584cb08ea042/offerings'"]}
+{"_e":"metro:client_log","_t":1790953229449,"level":"debug","data":["[RevenueCat] ℹ️ API request completed: GET '/v1/subscribers/$RCAnonymousID%3A2dfa3e5880ca453ebeeb584cb08ea042/offerings' (200)"]}
+{"_e":"metro:client_log","_t":1790953229473,"level":"debug","data":["[RevenueCat] ℹ️ No existing products cached, starting store products request for: [\"sleeptalk_pro_yearly\", \"sleeptalk_pro_weekly\"]"]}
+{"_e":"metro:client_log","_t":1790953229473,"level":"debug","data":["[RevenueCat] ℹ️ GetOfferingsOperation: Finished"]}
+{"_e":"metro:client_log","_t":1790953229473,"level":"debug","data":["[RevenueCat] ℹ️ Serial request done: GET /v1/subscribers/$RCAnonymousID%3A2dfa3e5880ca453ebeeb584cb08ea042/offerings, 0 requests left in the queue"]}
+{"_e":"metro:client_log","_t":1790953229473,"level":"debug","data":["[RevenueCat] ℹ️ HealthReportAvailabilityOperation: Started"]}
+{"_e":"metro:client_log","_t":1790953229474,"level":"debug","data":["[RevenueCat] ℹ️ There are no requests currently running, starting request GET /v1/subscribers/$RCAnonymousID%3A2dfa3e5880ca453ebeeb584cb08ea042/health_report_availability"]}
+{"_e":"metro:client_log","_t":1790953229474,"level":"debug","data":["[RevenueCat] ℹ️ API request started: GET '/v1/subscribers/$RCAnonymousID%3A2dfa3e5880ca453ebeeb584cb08ea042/health_report_availability'"]}
+{"_e":"metro:client_log","_t":1790953229682,"level":"debug","data":["[RevenueCat] ℹ️ API request completed: GET '/v1/subscribers/$RCAnonymousID%3A2dfa3e5880ca453ebeeb584cb08ea042/health_report_availability' (200)"]}
+{"_e":"metro:client_log","_t":1790953229687,"level":"debug","data":["[RevenueCat] ℹ️ HealthReportAvailabilityOperation: Finished"]}
+{"_e":"metro:client_log","_t":1790953229687,"level":"debug","data":["[RevenueCat] ℹ️ Serial request done: GET /v1/subscribers/$RCAnonymousID%3A2dfa3e5880ca453ebeeb584cb08ea042/health_report_availability, 0 requests left in the queue"]}
+{"_e":"metro:client_log","_t":1790953229687,"level":"debug","data":["[RevenueCat] ℹ️ GetCustomerInfoOperation: Started"]}
+{"_e":"metro:client_log","_t":1790953229688,"level":"debug","data":["[RevenueCat] ℹ️ There are no requests currently running, starting request GET /v1/subscribers/$RCAnonymousID%3A2dfa3e5880ca453ebeeb584cb08ea042"]}
+{"_e":"metro:client_log","_t":1790953229688,"level":"debug","data":["[RevenueCat] ℹ️ API request started: GET '/v1/subscribers/$RCAnonymousID%3A2dfa3e5880ca453ebeeb584cb08ea042'"]}
+{"_e":"metro:client_log","_t":1790953229962,"level":"debug","data":["[RevenueCat] ℹ️ API request completed: GET '/v1/subscribers/$RCAnonymousID%3A2dfa3e5880ca453ebeeb584cb08ea042' (201)"]}
+{"_e":"metro:client_log","_t":1790953230008,"level":"debug","data":["[RevenueCat] ℹ️ Sending latest CustomerInfo to delegate."]}
+{"_e":"metro:client_log","_t":1790953230008,"level":"debug","data":["[RevenueCat] 😻 CustomerInfo updated from network."]}
+{"_e":"metro:client_log","_t":1790953230023,"level":"debug","data":["[RevenueCat] 😻 CustomerInfo updated from network."]}
+{"_e":"metro:client_log","_t":1790953230023,"level":"debug","data":["[RevenueCat] ℹ️ GetCustomerInfoOperation: Finished"]}
+{"_e":"metro:client_log","_t":1790953230024,"level":"debug","data":["[RevenueCat] ℹ️ Serial request done: GET /v1/subscribers/$RCAnonymousID%3A2dfa3e5880ca453ebeeb584cb08ea042, 0 requests left in the queue"]}
+{"_e":"metro:client_log","_t":1790953231914,"level":"debug","data":["[RevenueCat] 😻 Store products request received response"]}
+{"_e":"metro:client_log","_t":1790953231914,"level":"debug","data":["[RevenueCat] ℹ️ Store products request finished"]}
+{"_e":"metro:client_log","_t":1790953231922,"level":"debug","data":["[RevenueCat] 😻 Offerings updated from network."]}
+{"_e":"metro:client_log","_t":1790953231925,"level":"debug","data":["[RevenueCat] ℹ️ Warming up intro eligibility cache for 2 products"]}
+{"_e":"metro:client_log","_t":1790953231926,"level":"debug","data":["[RevenueCat] ℹ️ No existing products cached, starting store products request for: [\"sleeptalk_pro_yearly\", \"sleeptalk_pro_weekly\"]"]}
+{"_e":"metro:client_log","_t":1790953231968,"level":"debug","data":["[RevenueCat] 😻 Store products request received response"]}
+{"_e":"metro:client_log","_t":1790953231968,"level":"debug","data":["[RevenueCat] ℹ️ Store products request finished"]}
+{"_e":"metro:client_log","_t":1790953231991,"level":"debug","data":["[RevenueCat] ℹ️ Caching trial or intro eligibility for products: [\"sleeptalk_pro_yearly\", \"sleeptalk_pro_weekly\"]"]}
+{"_e":"metro:client_log","_t":1790953233543,"level":"debug","data":["[RevenueCat] ℹ️ Finished syncing all cached transaction metadata"]}
+{"_e":"metro:client_log","_t":1790953236546,"level":"debug","data":["[RevenueCat] ℹ️ Vending Offerings from memory cache"]}
+{"_e":"metro:client_log","_t":1790953238455,"level":"debug","data":["[RevenueCat] ℹ️ Vending Offerings from memory cache"]}
+{"_e":"metro:client_log","_t":1790953238456,"level":"info","data":["[RevenueCat] 💰 Purchasing Product 'sleeptalk_pro_yearly' from package in Offering 'default'"]}
+{"_e":"metro:client_log","_t":1790953238721,"level":"debug","data":["[RevenueCat] ℹ️ Background task started: com.revenuecat.flushAllEvents"]}
+{"_e":"metro:client_log","_t":1790953238728,"level":"debug","data":["[RevenueCat] ℹ️ setting reserved attribute: $attConsentStatus"]}
+{"_e":"metro:client_log","_t":1790953238728,"level":"debug","data":["[RevenueCat] ℹ️ Attribute set locally: [SubscriberAttribute] key: $attConsentStatus value: notDetermined setTime: 2026-10-02 15:00:38 +0000. It will be synced to the backend when the app backgrounds/foregrounds or when a purchase is made."]}
+{"_e":"metro:client_log","_t":1790953238731,"level":"debug","data":["[RevenueCat] ℹ️ PostSubscriberAttributesOperation: Started"]}
+{"_e":"metro:client_log","_t":1790953238732,"level":"debug","data":["[RevenueCat] ℹ️ There are no requests currently running, starting request POST /v1/subscribers/$RCAnonymousID%3A2dfa3e5880ca453ebeeb584cb08ea042/attributes"]}
+{"_e":"metro:client_log","_t":1790953238737,"level":"debug","data":["[RevenueCat] ℹ️ API request started: POST '/v1/subscribers/$RCAnonymousID%3A2dfa3e5880ca453ebeeb584cb08ea042/attributes'"]}
+{"_e":"metro:client_log","_t":1790953238995,"level":"debug","data":["[RevenueCat] ℹ️ API request completed: POST '/v1/subscribers/$RCAnonymousID%3A2dfa3e5880ca453ebeeb584cb08ea042/attributes' (200)"]}
+{"_e":"metro:client_log","_t":1790953239000,"level":"info","data":["[RevenueCat] ℹ️ Marking attributes as synced for App User ID: $RCAnonymousID:2dfa3e5880ca453ebeeb584cb08ea042:\n attributes: [\"$attConsentStatus\": [SubscriberAttribute] key: $attConsentStatus value: notDetermined setTime: 2026-10-02 15:00:38 +0000]"]}
+{"_e":"metro:client_log","_t":1790953239001,"level":"debug","data":["[RevenueCat] ℹ️ Found 1 unsynced attributes for App User ID: $RCAnonymousID:2dfa3e5880ca453ebeeb584cb08ea042"]}
+{"_e":"metro:client_log","_t":1790953239001,"level":"debug","data":["[RevenueCat] ℹ️ Unsynced attributes: [\"$attConsentStatus\": [SubscriberAttribute] key: $attConsentStatus value: notDetermined setTime: 2026-10-02 15:00:38 +0000]"]}
+{"_e":"metro:client_log","_t":1790953239001,"level":"debug","data":["[RevenueCat] 😻 Subscriber attributes synced successfully for App User ID: $RCAnonymousID:2dfa3e5880ca453ebeeb584cb08ea042"]}
+{"_e":"metro:client_log","_t":1790953239001,"level":"debug","data":["[RevenueCat] ℹ️ PostSubscriberAttributesOperation: Finished"]}
+{"_e":"metro:client_log","_t":1790953239001,"level":"debug","data":["[RevenueCat] ℹ️ Serial request done: POST /v1/subscribers/$RCAnonymousID%3A2dfa3e5880ca453ebeeb584cb08ea042/attributes, 0 requests left in the queue"]}
+{"_e":"metro:client_log","_t":1790953243216,"level":"debug","data":["[RevenueCat] ℹ️ Vending CustomerInfo from cache."]}
+{"_e":"metro:client_log","_t":1790953243245,"level":"error","data":["[RevenueCat] 🍎‼️ Purchase was cancelled.","\n\n\u001b[1mCode: metroServerLogs.native.ts\u001b[22m\n\u001b[0m \u001b[90m 103 |\u001b[39m }\n \u001b[90m 104 |\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 105 |\u001b[39m \u001b[36mclass\u001b[39m \u001b[33mNamelessError\u001b[39m \u001b[36mextends\u001b[39m \u001b[33mError\u001b[39m {\n \u001b[90m     |\u001b[39m \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 106 |\u001b[39m   name \u001b[33m=\u001b[39m \u001b[32m''\u001b[39m\u001b[33m;\u001b[39m\n \u001b[90m 107 |\u001b[39m }\n \u001b[90m 108 |\u001b[39m \u001b[36mfunction\u001b[39m captureCurrentStack() {\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[2m\u001b[90m  apply (<native>)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  NamelessError (node_modules/@expo/metro-runtime/src/metroServerLogs.native.ts:105)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  captureCurrentStack (node_modules/@expo/metro-runtime/src/metroServerLogs.native.ts:110:27)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  HMRClient.log (node_modules/@expo/metro-runtime/src/metroServerLogs.native.ts:42:79)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  console.level (node_modules/react-native/Libraries/Core/setUpDeveloperTools.js:41:24)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  setLogHandler$argument_0 (node_modules/react-native-purchases/dist/purchases.js:194:38)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  eventEmitter.addListener$argument_1 (node_modules/react-native-purchases/dist/purchases.js:127:25)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  apply (<native>)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  emit (node_modules/react-native/Libraries/vendor/emitter/EventEmitter.js:137:36)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  apply (<native>)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  RCTDeviceEventEmitterImpl#emit (node_modules/react-native/Libraries/EventEmitter/RCTDeviceEventEmitter.js:34:17)\u001b[39m\u001b[22m"]}
+{"_e":"metro:client_log","_t":1790953338543,"level":"log","data":["[RevenueCat]","ℹ️ Purchases instance already set with the same configuration. Ignoring duplicate call."]}
+{"_e":"metro:client_log","_t":1790953338544,"level":"log","data":["[RevenueCat]","⚠️ Purchases delegate has already been configured."]}
+{"_e":"metro:client_log","_t":1790953392049,"level":"log","data":["[RevenueCat]","💰 Purchasing Product 'sleeptalk_pro_yearly' from package in Offering 'default'"]}
+{"_e":"metro:client_log","_t":1790953393054,"level":"log","data":["[RevenueCat]","🍎‼️ Purchase was cancelled."]}
+{"_e":"metro:bundling:failed","_t":1790953562468,"id":null,"message":"Unable to resolve \"@/components/SafeArea\" from \"src/app/night.tsx\"\n   7 | import Animated, { cancelAnimation, Easing, useAnimatedProps, useSharedValue, withTiming } from \"react-native-reanimated\";\n   8 | import { useSafeAreaInsets } from \"react-native-safe-area-context\";\n>  9 | import { SafeAreaView } from \"@/components/SafeArea\";\n     |                               ^\n  10 | import Svg, { Circle, Polyline } from \"react-native-svg\";\n  11 | import { hhmm, Logo } from \"@/components/Night\";\n  12 | import { Label, Text } from \"@/components/ui\";","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39msrc/app/night.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@/components/SafeArea\"\u001b[39m\n\n\u001b[90m \u001b[39msrc/app\u001b[2m (require.context)\u001b[22m\n","filename":null,"targetModuleName":"@/components/SafeArea","originModulePath":"src/app/night.tsx"}
+{"_e":"metro:bundling:failed","_t":1790953563141,"id":null,"message":"Unable to resolve \"@/components/SafeArea\" from \"src/app/night.tsx\"\n   7 | import Animated, { cancelAnimation, Easing, useAnimatedProps, useSharedValue, withTiming } from \"react-native-reanimated\";\n   8 | import { useSafeAreaInsets } from \"react-native-safe-area-context\";\n>  9 | import { SafeAreaView } from \"@/components/SafeArea\";\n     |                               ^\n  10 | import Svg, { Circle, Polyline } from \"react-native-svg\";\n  11 | import { hhmm, Logo } from \"@/components/Night\";\n  12 | import { Label, Text } from \"@/components/ui\";","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39msrc/app/night.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@/components/SafeArea\"\u001b[39m\n\n\u001b[90m \u001b[39msrc/app\u001b[2m (require.context)\u001b[22m\n","filename":null,"targetModuleName":"@/components/SafeArea","originModulePath":"src/app/night.tsx"}
+{"_e":"metro:client_log","_t":1790954572415,"level":"log","data":["[RevenueCat]","ℹ️ Purchases instance already set with the same configuration. Ignoring duplicate call."]}
+{"_e":"metro:client_log","_t":1790954572417,"level":"log","data":["[RevenueCat]","⚠️ Purchases delegate has already been configured."]}
+{"_e":"metro:bundling:started","_t":1790954619761,"id":"7","platform":"ios","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1790954619761,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1790954619817,"id":"7","total":1,"ms":56.300792}
+{"_e":"metro:client_log","_t":1790954620605,"level":"log","data":["[RevenueCat]","ℹ️ Purchases instance already set with the same configuration. Ignoring duplicate call."]}
+{"_e":"metro:client_log","_t":1790954732387,"level":"log","data":["[RevenueCat]","ℹ️ Purchases instance already set with the same configuration. Ignoring duplicate call."]}
+{"_e":"metro:client_log","_t":1790954732388,"level":"log","data":["[RevenueCat]","⚠️ Purchases delegate has already been configured."]}
+{"_e":"metro:bundling:started","_t":1790954743277,"id":"8","platform":"ios","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1790954743277,"id":"8","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1790954743338,"id":"8","total":1,"ms":61.440333}
+{"_e":"metro:client_log","_t":1790954744026,"level":"log","data":["[RevenueCat]","ℹ️ Purchases instance already set with the same configuration. Ignoring duplicate call."]}
+{"_e":"metro:bundling:started","_t":1790954747752,"id":"9","platform":"ios","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1790954747753,"id":"9","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1790954747803,"id":"9","total":1,"ms":50.997083}
+{"_e":"metro:client_log","_t":1790954748501,"level":"log","data":["[RevenueCat]","ℹ️ Purchases instance already set with the same configuration. Ignoring duplicate call."]}
+{"_e":"metro:client_log","_t":1790954764780,"level":"log","data":["[RevenueCat]","ℹ️ Marking attributes as synced for App User ID: $RCAnonymousID:2dfa3e5880ca453ebeeb584cb08ea042:\n attributes: [\"$posthogUserId\": [SubscriberAttribute] key: $posthogUserId value: 01a0fd36-0a8d-702e-9c96-5dece1a92118 setTime: 2026-10-02 15:22:52 +0000]"]}

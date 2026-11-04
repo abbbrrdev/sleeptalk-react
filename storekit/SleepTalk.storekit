@@ -1,0 +1,82 @@
+{
+  "appPolicies": {
+    "eula": "",
+    "policies": [
+      {
+        "locale": "en_US",
+        "policyText": "",
+        "policyURL": ""
+      }
+    ]
+  },
+  "identifier": "D3F6ABF1",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "subscriptionGroups": [
+    {
+      "id": "76B7CDBF",
+      "localizations": [
+        {
+          "description": "",
+          "displayName": "SleepTalk Pro",
+          "locale": "en_US"
+        }
+      ],
+      "name": "pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "39.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "19322697",
+          "localizations": [
+            {
+              "description": "All Pro features, billed yearly",
+              "displayName": "Pro Yearly",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "sleeptalk_pro_yearly",
+          "recurringSubscriptionPeriod": "P1Y",
+          "referenceName": "Annual Subscription",
+          "subscriptionGroupID": "76B7CDBF",
+          "type": "RecurringSubscription",
+          "winbackOffers": [],
+          "introductoryOffer": {
+            "internalID": "A1B2C3D4",
+            "numberOfPeriods": 1,
+            "paymentMode": "free",
+            "subscriptionPeriod": "P3D"
+          }
+        },
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "6.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "99D38E7B",
+          "localizations": [
+            {
+              "description": "All Pro features, billed weekly",
+              "displayName": "Pro Weekly",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "sleeptalk_pro_weekly",
+          "recurringSubscriptionPeriod": "P1W",
+          "referenceName": "Weekly Subscription",
+          "subscriptionGroupID": "76B7CDBF",
+          "type": "RecurringSubscription",
+          "winbackOffers": []
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 4,
+    "minor": 0
+  }
+}

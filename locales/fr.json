@@ -1,0 +1,5 @@
+{
+  "CFBundleDisplayName": "SleepTalk",
+  "NSMicrophoneUsageDescription": "SleepTalk écoute pendant ton sommeil pour capter paroles, ronflements et rires. Seuls de courts extraits sont gardés, sur ton iPhone.",
+  "NSSpeechRecognitionUsageDescription": "SleepTalk transcrit sur ton iPhone les extraits où tu parles en dormant quand tu touches « Qu’est-ce que j’ai dit ? »."
+}

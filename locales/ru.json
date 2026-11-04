@@ -1,0 +1,5 @@
+{
+  "CFBundleDisplayName": "SleepTalk",
+  "NSMicrophoneUsageDescription": "SleepTalk слушает, пока ты спишь, чтобы поймать разговоры, храп и смех. Сохраняются только короткие клипы — на твоём iPhone.",
+  "NSSpeechRecognitionUsageDescription": "SleepTalk превращает клипы с разговорами во сне в текст на твоём iPhone, когда ты нажимаешь «Что я сказал?»."
+}

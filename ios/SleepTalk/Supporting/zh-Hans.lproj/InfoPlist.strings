@@ -1,0 +1,3 @@
+CFBundleDisplayName = "SleepTalk";
+NSMicrophoneUsageDescription = "SleepTalk 在你睡觉时聆听，捕捉梦话、打呼和笑声。只保留简短片段，存在你的 iPhone 上。";
+NSSpeechRecognitionUsageDescription = "当你点击“我说了什么？”时，SleepTalk 会在你的 iPhone 上把梦话片段转成文字。";
